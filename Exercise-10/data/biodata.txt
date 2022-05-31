@@ -1,0 +1,9 @@
+Nama: hanif
+Umur: 19
+Alamat: Jogja
+Nama: hanif
+Umur: 19
+Alamat: jogja
+Nama: farisi
+Umur: 18
+Alamat: solo
